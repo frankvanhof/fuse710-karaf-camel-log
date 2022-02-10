@@ -3,3 +3,8 @@
 .settings/
 target/
 target/fuse710-karaf-camel-log-1.0-SNAPSHOT.jar
+
+d:\git\fuse710-karaf-camel-log\.odo\env
+.odo\odo-file-index.json
+.odo/odo-file-index.json
+.odo/env/env.yaml
