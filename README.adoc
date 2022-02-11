@@ -32,7 +32,7 @@ $ oc login -u developer -p developer
 +
 [source,bash,options="nowrap",subs="attributes+"]
 ----
-$ oc new-project MY_PROJECT_NAME
+$ oc new-project karaf-log
 ----
 
 . Change the directory to the folder that contains the extracted quickstart application (for example, `my_openshift/karaf-camel-log`) :
@@ -81,7 +81,7 @@ $ oc login -u developer -p developer
 +
 [source,bash,options="nowrap",subs="attributes+"]
 ----
-$ oc new-project MY_PROJECT_NAME
+$ oc new-project karaf-log
 ----
 
 . Import base images in your newly created project (MY_PROJECT_NAME) according to https://access.redhat.com/documentation/en-us/red_hat_fuse/7.10/html/fuse_on_openshift_guide/get-started-non-admin[documentation].
